@@ -1,0 +1,36 @@
+table{
+    border: 2px solid white;
+    border-collapse: collapse !important; 
+}
+tr, td{
+    border: 1px solid white !important;
+    padding: 8px;
+    text-align: center;
+    font-size: 14px;
+}
+
+
+.shift{
+/* margin-left: auto !important; */
+/* margin-right: auto !important; */
+/* justify-content: center !important; */
+/* align-items: center; */
+text-align: -webkit-center !important;
+}
+#tableArea{
+    display: none;
+}
+.reset{
+    /* padding: 10px 20px;
+    padding: 20px;
+    background-color: rgb(57, 3, 57);
+    color: white;
+    font-size: 18px;
+    border-radius: 30px;
+    width: 80px;
+    margin-left: 300px;
+    border: none;
+    text-align: center; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
